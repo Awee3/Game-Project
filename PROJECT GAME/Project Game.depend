@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671419413 source:c:\users\wildan\onedrive\desktop\codeblock\dasprog\project game\main.cpp
+	<conio.h>
+	<graphics.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+
